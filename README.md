@@ -8,6 +8,7 @@ Sentiment analysis for the movie Star Wars: The Rise of Skywalker
 ## Description
 
 I scraped the reviews from Rotten Tomatoes using BeautifulSoup and relying on Selenium to click on the next button.
-The reviews are then incorporated in a Pandas dataframe.
 
-The reviews are then analyzed using VADER
+The reviews are then incorporated in a Pandas dataframe and analyzed using VADER.
+
+
